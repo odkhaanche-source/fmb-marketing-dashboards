@@ -1,0 +1,13 @@
+project_id,project_name,segment,zone,price_per_sqft,total_units,amenities_score,dist_to_metro_km,launch_year,rent_per_sqft_month,total_area_sqft,dist_to_highway_km,dock_doors,clear_height_m
+P01,Riverside Heights,Residential,North,7200.0,180.0,8.5,2.0,2023.0,,,,,
+P02,Green Meadows,Residential,South,6400.0,140.0,7.0,3.5,2023.0,,,,,
+P03,Sunrise Residency,Residential,East,5600.0,220.0,6.5,5.0,2024.0,,,,,
+P04,Skyline Towers,Residential,Central,9800.0,120.0,9.0,1.0,2024.0,,,,,
+P05,Lakeview Enclave,Residential,West,6800.0,160.0,8.0,4.0,2023.0,,,,,
+P06,Palm Court,Residential,Suburban,4900.0,260.0,6.0,9.0,2024.0,,,,,
+P07,Heritage Square,Residential,Central,8800.0,100.0,8.8,1.5,2024.0,,,,,
+P08,Orchid Park,Residential,North,7600.0,150.0,7.5,3.0,2024.0,,,,,
+W01,Logistics Park A,Warehouse,North,,,,,,24.0,250000.0,2.0,12.0,11.0
+W02,Logistics Park B,Warehouse,East,,,,,,21.0,180000.0,5.5,10.0,10.0
+W03,Warehousing Hub C,Warehouse,South,,,,,,19.0,120000.0,8.0,8.0,9.5
+W04,Industrial Estate D,Warehouse,West,,,,,,17.0,90000.0,12.0,6.0,9.0

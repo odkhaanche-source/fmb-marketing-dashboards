@@ -1,0 +1,366 @@
+month,segment,channel,spend,impressions,clicks,leads_reported,conversions_reported
+2024-01,Residential,Broker Network,111206.0,,,14,1
+2024-01,Residential,Google Ads,253494.0,9017.0,320.0,25,2
+2024-01,Residential,Hoardings/OOH,122059.0,,,10,1
+2024-01,Residential,Meta Ads,168571.0,38653.0,471.0,28,0
+2024-01,Residential,Property Portal,195718.0,13021.0,265.0,20,1
+2024-01,Residential,Referral,24048.0,,,8,3
+2024-01,Residential,Walk-in,12797.0,,,12,3
+2024-01,Residential,WhatsApp/Email Campaign,19421.0,2038.0,122.0,9,0
+2024-02,Residential,Broker Network,104539.0,,,14,1
+2024-02,Residential,Google Ads,,7727.0,284.0,19,2
+2024-02,Residential,Hoardings/OOH,68771.0,,,6,0
+2024-02,Residential,Meta Ads,141915.0,38846.0,424.0,22,2
+2024-02,Residential,property portal,256430.0,25409.0,481.0,28,3
+2024-02,Residential,Referral,33063.0,,,13,4
+2024-02,Residential,Walk-in,19182.0,,,18,3
+2024-02,Residential,WhatsApp/Email Campaign,20443.0,2601.0,168.0,10,0
+2024-03,Residential,Broker Network,105683.0,,,14,1
+2024-03,Residential,google ads,212905.0,8116.0,282.0,22,2
+2024-03,Residential,Hoardings/OOH,84933.0,,,7,1
+2024-03,Residential,Meta Ads,210694.0,66608.0,839.0,33,2
+2024-03,Residential,Property Portal,231379.0,21549.0,471.0,26,2
+2024-03,Residential,Referral,24913.0,,,9,3
+2024-03,Residential,Walk-in,12969.0,,,12,1
+2024-03,Residential,WhatsApp/Email Campaign,22103.0,2576.0,167.0,11,0
+2024-04,Residential,Broker Network,235433.0,,,29,4
+2024-04,Residential,Google Ads,227367.0,13624.0,518.0,23,6
+2024-04,Residential,Hoardings/OOH,79534.0,,,7,1
+2024-04,Residential,META ADS,221475.0,42595.0,528.0,35,3
+2024-04,Residential,Property Portal,316559.0,26551.0,560.0,39,5
+2024-04,Residential,Referral,31854.0,,,12,3
+2024-04,Residential,Walk-in,9806.0,,,8,4
+2024-04,Residential,WhatsApp/Email Campaign,26463.0,2801.0,165.0,13,1
+2024-05,Residential,Broker Network,146449.0,,,17,3
+2024-05,Residential,Google Ads,373068.0,27480.0,926.0,34,7
+2024-05,Residential,Hoardings/OOH,77084.0,,,7,0
+2024-05,Residential,Meta Ads,175209.0,57795.0,630.0,29,3
+2024-05,Residential,Property Portal,226395.0,17213.0,352.0,23,1
+2024-05,Residential,Referral,21350.0,,,7,3
+2024-05,Residential,Walk-in,10277.0,,,10,0
+2024-05,Residential,WhatsApp/Email Campaign,28790.0,4208.0,271.0,14,0
+2024-06,Residential,Broker Network,108870.0,,,16,2
+2024-06,Residential,Google Ads,128081.0,5980.0,217.0,15,1
+2024-06,Residential,Hoardings/OOH,,,,2,0
+2024-06,Residential,Meta Ads,131872.0,39930.0,434.0,23,1
+2024-06,Residential,Property Portal,156560.0,20532.0,374.0,17,1
+2024-06,Residential,Referral,29281.0,,,10,4
+2024-06,Residential,Walk-in,5962.0,,,6,1
+2024-06,Residential,WhatsApp/Email Campaign,18514.0,3688.0,212.0,9,1
+2024-07,Residential,Broker Network,104238.0,,,13,1
+2024-07,Residential,Google Ads,140832.0,12099.0,382.0,15,0
+2024-07,Residential,Hoardings/OOH,75972.0,,,7,0
+2024-07,Residential,Meta Ads,140326.0,64557.0,845.0,26,1
+2024-07,Residential,Property Portal,160501.0,13727.0,273.0,18,1
+2024-07,Residential,Referral,25363.0,,,9,3
+2024-07,Residential,Walk-in,8815.0,,,8,4
+2024-07,Residential,WhatsApp/Email Campaign,22528.0,4250.0,235.0,12,1
+2024-08,Residential,Broker Network,84327.0,,,11,0
+2024-08,Residential,Google Ads,284171.0,15358.0,489.0,27,1
+2024-08,Residential,hoardings/ooh,,,,11,0
+2024-08,Residential,Meta Ads,142611.0,24045.0,269.0,23,3
+2024-08,Residential,Property Portal,197391.0,24122.0,442.0,23,1
+2024-08,Residential,Referral,38604.0,,,12,3
+2024-08,Residential,Walk-in,8912.0,,,9,2
+2024-08,Residential,WhatsApp/Email Campaign,26843.0,3271.0,190.0,13,2
+2024-09,Residential, Broker Network ,114072.0,,,16,1
+2024-09,Residential, Google Ads ,293086.0,26128.0,841.0,29,4
+2024-09,Residential,Hoardings/OOH,113055.0,,,10,1
+2024-09,Residential,meta ads,189779.0,46119.0,579.0,32,2
+2024-09,Residential,Property Portal,262528.0,50106.0,1049.0,31,3
+2024-09,Residential,Referral,20946.0,,,7,3
+2024-09,Residential,WALK-IN,10811.0,,,9,2
+2024-09,Residential,WhatsApp/Email Campaign,8970.0,1429.0,88.0,5,0
+2024-10,Residential,Broker Network,107587.0,,,14,2
+2024-10,Residential,Google Ads,244225.0,10340.0,328.0,23,7
+2024-10,Residential,hoardings/ooh,89614.0,,,9,1
+2024-10,Residential, Meta Ads ,,35257.0,421.0,33,3
+2024-10,Residential,Property Portal,276404.0,38165.0,710.0,34,3
+2024-10,Residential,Referral,34338.0,,,11,5
+2024-10,Residential,Walk-in,16073.0,,,15,5
+2024-10,Residential,WhatsApp/Email Campaign,34970.0,3861.0,237.0,15,1
+2024-11,Residential,Broker Network,151527.0,,,19,7
+2024-11,Residential,Google_Ads,292002.0,18201.0,598.0,32,5
+2024-11,Residential,Hoardings/OOH,146747.0,,,13,2
+2024-11,Residential,Meta Ads,278178.0,76111.0,992.0,47,7
+2024-11,Residential,Property Portal,416841.0,49475.0,957.0,42,3
+2024-11,Residential,Referral,54643.0,,,19,3
+2024-11,Residential,Walk-in,8716.0,,,7,2
+2024-11,Residential,WhatsApp/Email Campaign,21305.0,4745.0,271.0,11,2
+2024-12,Residential,Broker Network,121749.0,,,16,1
+2024-12,Residential,Google Ads,259042.0,10999.0,413.0,27,5
+2024-12,Residential,Hoardings/OOH,34117.0,,,3,0
+2024-12,Residential,Meta Ads,228412.0,97557.0,1167.0,38,4
+2024-12,Residential,Property Portal,177727.0,22965.0,438.0,22,3
+2024-12,Residential,Referral,22129.0,,,8,2
+2024-12,Residential,Walk-in,10471.0,,,9,1
+2024-12,Residential,WhatsApp/Email Campaign,19331.0,3054.0,177.0,10,2
+2025-01,Residential,Broker Network,148031.0,,,20,3
+2025-01,Residential,Google Ads,267798.0,11330.0,435.0,28,3
+2025-01,Residential,Hoardings/OOH,102578.0,,,10,1
+2025-01,Residential,META ADS,212404.0,70838.0,934.0,35,1
+2025-01,Residential,Property Portal,140996.0,23828.0,474.0,16,0
+2025-01,Residential,Referral,21675.0,,,8,3
+2025-01,Residential,Walk-in,7499.0,,,7,3
+2025-01,Residential,WhatsApp/Email Campaign,27530.0,6722.0,416.0,15,1
+2025-02,Residential,Broker Network,158480.0,,,18,2
+2025-02,Residential,Google Ads,287393.0,17088.0,543.0,28,2
+2025-02,Residential,Hoardings/OOH,,,,9,0
+2025-02,Residential,Meta Ads,148258.0,30342.0,331.0,23,2
+2025-02,Residential,Property Portal,183980.0,18619.0,335.0,20,2
+2025-02,Residential,referral,21357.0,,,7,1
+2025-02,Residential,walk-in,4544.0,,,4,2
+2025-02,Residential,WhatsApp/Email Campaign,18053.0,3608.0,236.0,10,1
+2025-03,Residential,Broker Network,150691.0,,,20,5
+2025-03,Residential,Google Ads,352961.0,15394.0,489.0,34,3
+2025-03,Residential,Hoardings/OOH,43653.0,,,4,0
+2025-03,Residential,Meta Ads,205623.0,80076.0,899.0,31,2
+2025-03,Residential,Property Portal,163093.0,19624.0,407.0,20,1
+2025-03,Residential,Referral,50883.0,,,18,6
+2025-03,Residential,Walk-in,7604.0,,,7,4
+2025-03,Residential,WhatsApp/Email Campaign,13688.0,2974.0,171.0,8,0
+2025-04,Residential,broker network,134271.0,,,19,3
+2025-04,Residential,Google Ads,,16306.0,556.0,21,4
+2025-04,Residential,Hoardings/OOH,102639.0,,,10,1
+2025-04,Residential,Meta Ads,176583.0,37021.0,437.0,28,2
+2025-04,Residential,property portal,261259.0,25302.0,477.0,28,1
+2025-04,Residential, Referral ,49262.0,,,16,3
+2025-04,Residential,Walk-in,12311.0,,,11,2
+2025-04,Residential,WhatsApp/Email Campaign,21646.0,2152.0,131.0,10,2
+2025-05,Residential,Broker Network,133853.0,,,17,2
+2025-05,Residential, Google Ads ,225810.0,8952.0,328.0,24,4
+2025-05,Residential,Hoardings/OOH,78836.0,,,7,0
+2025-05,Residential,Meta Ads,156971.0,28290.0,318.0,26,1
+2025-05,Residential,Property_Portal,200792.0,15619.0,293.0,21,0
+2025-05,Residential,Referral,38808.0,,,13,4
+2025-05,Residential,Walk-in,13734.0,,,13,2
+2025-05,Residential,whatsapp/email campaign,,1834.0,100.0,6,1
+2025-06,Residential,Broker Network,90495.0,,,11,1
+2025-06,Residential,Google Ads,265957.0,10936.0,410.0,24,1
+2025-06,Residential,Hoardings/OOH,41937.0,,,4,0
+2025-06,Residential,Meta Ads,115766.0,35673.0,410.0,20,2
+2025-06,Residential,Property Portal,181674.0,17777.0,352.0,19,4
+2025-06,Residential,referral,7678.0,,,3,1
+2025-06,Residential,Walk-in,4475.0,,,5,0
+2025-06,Residential,WhatsApp/Email Campaign,21270.0,3854.0,212.0,11,0
+2025-07,Residential,Broker Network,140800.0,,,17,0
+2025-07,Residential,Google Ads,144919.0,10339.0,375.0,15,1
+2025-07,Residential,Hoardings/OOH,86868.0,,,7,0
+2025-07,Residential, Meta Ads ,160682.0,51548.0,638.0,26,1
+2025-07,Residential,Property Portal,144393.0,9983.0,215.0,15,2
+2025-07,Residential,Referral,15817.0,,,6,2
+2025-07,Residential,Walk-in,12605.0,,,10,1
+2025-07,Residential,WhatsApp/Email Campaign,15049.0,2767.0,160.0,8,0
+2025-08,Residential,Broker Network,149828.0,,,19,5
+2025-08,Residential,Google Ads,219628.0,8432.0,311.0,21,3
+2025-08,Residential,Hoardings/OOH,17788.0,,,2,0
+2025-08,Residential,Meta Ads,113808.0,41128.0,495.0,19,0
+2025-08,Residential,Property Portal,185257.0,20770.0,415.0,21,2
+2025-08,Residential,Referral,26797.0,,,10,2
+2025-08,Residential,Walk-in,5373.0,,,5,1
+2025-08,Residential,WhatsApp/Email Campaign,9765.0,1847.0,104.0,5,0
+2025-09,Residential,Broker Network,129426.0,,,15,4
+2025-09,Residential,Google Ads,253939.0,22136.0,804.0,26,2
+2025-09,Residential,Hoardings/OOH,81750.0,,,7,0
+2025-09,Residential,Meta Ads,164162.0,67346.0,884.0,28,1
+2025-09,Residential,Property Portal,140241.0,19370.0,349.0,15,1
+2025-09,Residential,Referral,28237.0,,,10,3
+2025-09,Residential,Walk-in,8375.0,,,7,3
+2025-09,Residential,WhatsApp/Email Campaign,28641.0,4133.0,250.0,13,1
+2025-10,Residential,Broker Network,158920.0,,,21,4
+2025-10,Residential,Google Ads,287163.0,25798.0,931.0,30,3
+2025-10,Residential,Hoardings/OOH,132258.0,,,10,3
+2025-10,Residential,Meta Ads,222847.0,55797.0,697.0,37,5
+2025-10,Residential,Property Portal,289581.0,20803.0,384.0,30,5
+2025-10,Residential, Referral ,56180.0,,,20,7
+2025-10,Residential,walk-in,8371.0,,,9,6
+2025-10,Residential,WhatsApp/Email Campaign,40266.0,11153.0,728.0,21,1
+2025-11,Residential,Broker Network,126145.0,,,17,1
+2025-11,Residential,Google Ads,335961.0,18044.0,646.0,34,6
+2025-11,Residential,Hoardings/OOH,130393.0,,,12,1
+2025-11,Residential,Meta Ads,141410.0,63697.0,712.0,23,2
+2025-11,Residential,Property Portal,225508.0,21513.0,437.0,27,2
+2025-11,Residential,Referral,42206.0,,,15,4
+2025-11,Residential,Walk-in,14343.0,,,13,4
+2025-11,Residential,WhatsApp/Email Campaign,35522.0,5261.0,319.0,18,5
+2025-12,Residential,Broker Network,86402.0,,,12,3
+2025-12,Residential, Google Ads ,,20327.0,750.0,22,2
+2025-12,Residential,HOARDINGS/OOH,67270.0,,,6,1
+2025-12,Residential,Meta Ads,149338.0,28436.0,355.0,25,1
+2025-12,Residential,Property Portal,138931.0,19324.0,393.0,16,2
+2025-12,Residential,Referral,45946.0,,,15,4
+2025-12,Residential,Walk-in,10409.0,,,10,3
+2025-12,Residential,WhatsApp/Email Campaign,29699.0,4121.0,248.0,15,3
+2024-01,Warehouse, 3PL Directory ,161184.0,,,12,3
+2024-01,Warehouse, Broker ,91670.0,,,6,2
+2024-01,Warehouse,Cold Calling,16598.0,,,4,1
+2024-01,Warehouse,Industry Expo,158057.0,,,8,1
+2024-01,Warehouse,LinkedIn Outreach,177061.0,31517.0,243.0,13,1
+2024-01,Warehouse,Referral,12777.0,,,3,0
+2024-01,Warehouse,Website/SEO,23100.0,1931.0,62.0,4,0
+2024-02,Warehouse,3PL Directory,46828.0,,,3,0
+2024-02,Warehouse,Broker,121880.0,,,8,1
+2024-02,Warehouse,Cold Calling,17109.0,,,5,0
+2024-02,Warehouse,Industry Expo,40586.0,,,2,0
+2024-02,Warehouse,LinkedIn Outreach,112292.0,16752.0,145.0,10,0
+2024-02,Warehouse,Referral,8780.0,,,2,0
+2024-02,Warehouse,Website/SEO,68248.0,5574.0,171.0,10,1
+2024-03,Warehouse, 3PL Directory ,72241.0,,,5,1
+2024-03,Warehouse,Broker,228192.0,,,14,3
+2024-03,Warehouse,Cold Calling,7808.0,,,2,0
+2024-03,Warehouse,Industry Expo,88366.0,,,3,0
+2024-03,Warehouse,linkedin outreach,183207.0,26280.0,196.0,14,1
+2024-03,Warehouse,Referral,8947.0,,,2,1
+2024-03,Warehouse,Website/SEO,43387.0,4172.0,119.0,7,1
+2024-04,Warehouse,3PL Directory,60827.0,,,4,0
+2024-04,Warehouse,Broker,234771.0,,,14,2
+2024-04,Warehouse,Cold Calling,19557.0,,,5,0
+2024-04,Warehouse,Industry Expo,85600.0,,,4,1
+2024-04,Warehouse,LinkedIn Outreach,121972.0,17805.0,130.0,9,0
+2024-04,Warehouse,Referral,39358.0,,,9,3
+2024-04,Warehouse,Website/SEO,41255.0,7389.0,213.0,7,1
+2024-05,Warehouse,3PL Directory,48596.0,,,4,0
+2024-05,Warehouse, Broker ,144352.0,,,9,2
+2024-05,Warehouse,Cold Calling,13863.0,,,4,1
+2024-05,Warehouse,Industry Expo,199858.0,,,8,1
+2024-05,Warehouse,linkedin outreach,65540.0,11106.0,91.0,6,0
+2024-05,Warehouse,referral,40711.0,,,9,2
+2024-05,Warehouse,Website/SEO,31287.0,6621.0,191.0,6,0
+2024-06,Warehouse, 3PL Directory ,44389.0,,,4,0
+2024-06,Warehouse,Broker,137489.0,,,11,1
+2024-06,Warehouse,Cold Calling,14972.0,,,4,0
+2024-06,Warehouse, Industry Expo ,79911.0,,,3,0
+2024-06,Warehouse,LinkedIn Outreach,91186.0,15976.0,122.0,8,1
+2024-06,Warehouse,Referral,16232.0,,,4,2
+2024-06,Warehouse,Website/SEO,37387.0,2348.0,68.0,5,0
+2024-07,Warehouse, 3PL Directory ,47754.0,,,4,0
+2024-07,Warehouse,Broker,123519.0,,,9,6
+2024-07,Warehouse,Cold Calling,17424.0,,,5,1
+2024-07,Warehouse, Industry Expo ,104353.0,,,4,1
+2024-07,Warehouse,LinkedIn Outreach,113049.0,16790.0,132.0,8,1
+2024-07,Warehouse,Referral,19841.0,,,4,2
+2024-07,Warehouse,Website/SEO,11559.0,1149.0,34.0,2,0
+2024-08,Warehouse,3PL Directory,72363.0,,,6,0
+2024-08,Warehouse,Broker,234794.0,,,15,0
+2024-08,Warehouse,Cold Calling,14008.0,,,3,0
+2024-08,Warehouse,LinkedIn Outreach,84054.0,20050.0,152.0,8,1
+2024-08,Warehouse,Referral,6057.0,,,1,0
+2024-08,Warehouse,Website/SEO,40101.0,5906.0,159.0,6,1
+2024-09,Warehouse,3PL Directory,82730.0,,,6,0
+2024-09,Warehouse,Broker,224899.0,,,15,3
+2024-09,Warehouse,Cold Calling,3050.0,,,1,0
+2024-09,Warehouse,Industry Expo,54916.0,,,2,0
+2024-09,Warehouse,LinkedIn Outreach,73094.0,16695.0,127.0,6,1
+2024-09,Warehouse,Referral,35014.0,,,7,2
+2024-09,Warehouse,Website/SEO,41961.0,2982.0,96.0,6,0
+2024-10,Warehouse,3PL Directory,46826.0,,,4,2
+2024-10,Warehouse,Broker,213452.0,,,13,4
+2024-10,Warehouse,Cold Calling,17503.0,,,4,0
+2024-10,Warehouse,Industry Expo,201638.0,,,8,2
+2024-10,Warehouse,LinkedIn Outreach,143554.0,28745.0,236.0,12,1
+2024-10,Warehouse,Referral,14990.0,,,3,0
+2024-10,Warehouse,Website/SEO,55803.0,6095.0,177.0,9,1
+2024-11,Warehouse,3PL Directory,84425.0,,,6,0
+2024-11,Warehouse,Broker,282595.0,,,18,5
+2024-11,Warehouse,Cold Calling,29393.0,,,8,0
+2024-11,Warehouse,Industry Expo,157878.0,,,7,2
+2024-11,Warehouse,LinkedIn Outreach,156877.0,53848.0,426.0,13,3
+2024-11,Warehouse, Referral ,30307.0,,,6,2
+2024-11,Warehouse,Website/SEO,66797.0,8308.0,244.0,10,1
+2024-12,Warehouse,3PL Directory,58784.0,,,4,0
+2024-12,Warehouse,Broker,258983.0,,,17,3
+2024-12,Warehouse,Cold Calling,19410.0,,,5,0
+2024-12,Warehouse,Industry Expo,157451.0,,,6,1
+2024-12,Warehouse,LinkedIn Outreach,114709.0,17796.0,146.0,9,1
+2024-12,Warehouse,Referral,6327.0,,,2,1
+2024-12,Warehouse,Website/SEO,67839.0,5534.0,164.0,10,0
+2025-01,Warehouse,3PL Directory,106519.0,,,8,2
+2025-01,Warehouse,Broker,123861.0,,,7,0
+2025-01,Warehouse,Cold Calling,10276.0,,,3,0
+2025-01,Warehouse,INDUSTRY EXPO,50483.0,,,2,1
+2025-01,Warehouse,LinkedIn Outreach,55045.0,11022.0,92.0,4,0
+2025-01,Warehouse,Referral,19174.0,,,5,1
+2025-01,Warehouse,Website/SEO,22340.0,1848.0,60.0,3,0
+2025-02,Warehouse,3PL Directory,82736.0,,,5,1
+2025-02,Warehouse,broker,82078.0,,,6,1
+2025-02,Warehouse,Cold Calling,17503.0,,,4,0
+2025-02,Warehouse,Industry Expo,150804.0,,,6,1
+2025-02,Warehouse,LinkedIn Outreach,129593.0,18977.0,144.0,11,0
+2025-02,Warehouse,Referral,11065.0,,,2,2
+2025-02,Warehouse,Website/SEO,51333.0,2952.0,95.0,7,1
+2025-03,Warehouse,3PL Directory,63715.0,,,5,1
+2025-03,Warehouse,broker,214932.0,,,13,1
+2025-03,Warehouse,Cold Calling,16368.0,,,5,1
+2025-03,Warehouse,Industry Expo,92427.0,,,4,0
+2025-03,Warehouse,linkedin outreach,144429.0,21072.0,179.0,13,1
+2025-03,Warehouse,Referral,9796.0,,,2,1
+2025-03,Warehouse,Website/SEO,36850.0,2751.0,77.0,6,0
+2025-04,Warehouse,3PL Directory,57246.0,,,5,1
+2025-04,Warehouse,Broker,263338.0,,,17,6
+2025-04,Warehouse,Cold Calling,40793.0,,,9,0
+2025-04,Warehouse,Industry Expo,119883.0,,,5,1
+2025-04,Warehouse,LinkedIn Outreach,84294.0,12588.0,97.0,6,1
+2025-04,Warehouse,Referral,15675.0,,,3,1
+2025-04,Warehouse,Website/SEO,51600.0,3599.0,112.0,7,0
+2025-05,Warehouse,3PL Directory,58906.0,,,5,1
+2025-05,Warehouse,Broker,113595.0,,,8,0
+2025-05,Warehouse,Cold Calling,20562.0,,,5,1
+2025-05,Warehouse,Industry Expo,168705.0,,,7,0
+2025-05,Warehouse,LinkedIn Outreach,150592.0,28047.0,211.0,12,1
+2025-05,Warehouse,Referral,19315.0,,,4,1
+2025-05,Warehouse,Website/SEO,38748.0,5805.0,188.0,6,0
+2025-06,Warehouse,3PL Directory,57367.0,,,4,0
+2025-06,Warehouse,Broker,173689.0,,,11,6
+2025-06,Warehouse,Cold Calling,20496.0,,,4,0
+2025-06,Warehouse,Industry Expo,175302.0,,,8,1
+2025-06,Warehouse,LinkedIn Outreach,175926.0,27265.0,196.0,13,1
+2025-06,Warehouse,Referral,5618.0,,,1,0
+2025-06,Warehouse,Website/SEO,21384.0,1911.0,57.0,3,0
+2025-07,Warehouse,3PL Directory,71690.0,,,5,0
+2025-07,Warehouse,Broker,45902.0,,,3,0
+2025-07,Warehouse,Cold Calling,23844.0,,,5,0
+2025-07,Warehouse,Industry Expo,92778.0,,,4,0
+2025-07,Warehouse,LinkedIn Outreach,118233.0,28360.0,247.0,9,3
+2025-07,Warehouse,Referral,14385.0,,,3,0
+2025-07,Warehouse,Website/SEO,74731.0,5351.0,162.0,11,0
+2025-08,Warehouse,3PL Directory,82569.0,,,6,0
+2025-08,Warehouse,Broker,179296.0,,,11,4
+2025-08,Warehouse,Cold Calling,15738.0,,,3,1
+2025-08,Warehouse,Industry Expo,73488.0,,,3,0
+2025-08,Warehouse,LinkedIn Outreach,20725.0,4102.0,32.0,2,0
+2025-08,Warehouse,referral,26170.0,,,6,2
+2025-08,Warehouse,Website/SEO,57111.0,5336.0,174.0,9,1
+2025-09,Warehouse,3PL Directory,51610.0,,,3,0
+2025-09,Warehouse,Broker,190846.0,,,11,1
+2025-09,Warehouse,Cold Calling,12126.0,,,4,1
+2025-09,Warehouse,Industry Expo,,,,5,0
+2025-09,Warehouse,LinkedIn Outreach,123265.0,22860.0,187.0,10,1
+2025-09,Warehouse,Referral,23552.0,,,5,2
+2025-09,Warehouse,Website/SEO,32285.0,2709.0,75.0,5,0
+2025-10,Warehouse,3PL Directory,59976.0,,,4,1
+2025-10,Warehouse,Broker,152464.0,,,10,3
+2025-10,Warehouse,Cold Calling,19941.0,,,5,1
+2025-10,Warehouse,Industry Expo,188540.0,,,8,0
+2025-10,Warehouse,LinkedIn Outreach,132473.0,18019.0,151.0,10,0
+2025-10,Warehouse,Referral,36946.0,,,8,2
+2025-10,Warehouse,website/seo,,6941.0,211.0,15,4
+2025-11,Warehouse,3PL Directory,36460.0,,,2,1
+2025-11,Warehouse,broker,192373.0,,,11,3
+2025-11,Warehouse,Cold Calling,27275.0,,,7,2
+2025-11,Warehouse,Industry Expo,194163.0,,,7,3
+2025-11,Warehouse,LinkedIn Outreach,139308.0,20910.0,163.0,12,3
+2025-11,Warehouse,Referral,,,,6,3
+2025-11,Warehouse,website/seo,62793.0,6114.0,190.0,9,1
+2025-12,Warehouse,3PL Directory,33106.0,,,3,0
+2025-12,Warehouse,Broker,134186.0,,,7,1
+2025-12,Warehouse,Cold Calling,,,,2,0
+2025-12,Warehouse,Industry Expo,75670.0,,,3,0
+2025-12,Warehouse,LinkedIn Outreach,142986.0,38007.0,281.0,12,1
+2025-12,Warehouse,Referral,3008.0,,,1,0
+2025-12,Warehouse,Website/SEO,31415.0,3711.0,109.0,5,0
+2025-11,Residential,Walk-in,14343.0,,,13,4
+2025-06,Warehouse,Industry Expo,175302.0,,,8,1
+2025-01,Warehouse,Broker,123861.0,,,7,0
+2024-08,Residential,Property Portal,197391.0,24122.0,442.0,23,1
+2025-05,Warehouse,Cold Calling,20562.0,,,5,1
+2025-01,Warehouse,INDUSTRY EXPO,50483.0,,,2,1

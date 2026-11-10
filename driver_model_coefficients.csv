@@ -1,0 +1,20 @@
+factor,std_coef,odds_ratio_per_1SD
+distance_from_site_km,-0.379,0.685
+Meta Ads,-0.366,0.693
+log_response,-0.241,0.786
+WhatsApp/Email Campaign,-0.198,0.82
+Property Portal,-0.19,0.827
+Hoardings/OOH,-0.139,0.87
+amenities_score,-0.1,0.905
+first_time_buyer,-0.052,0.949
+home_loan_rate_pct,-0.039,0.962
+age,0.033,1.034
+Broker Network,0.045,1.046
+Walk-in,0.128,1.136
+festive_season,0.182,1.2
+Referral,0.193,1.213
+annual_income,0.193,1.213
+follow_up_calls,0.213,1.238
+budget_to_price_ratio,0.251,1.285
+loan_preapproved,0.273,1.313
+site_visits,0.636,1.889

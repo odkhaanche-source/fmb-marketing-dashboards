@@ -1,0 +1,13 @@
+id,hypothesis (H1 = effect exists),test,statistic,p_value,effect_size / note,decision (alpha=0.05)
+H1,Conversion differs by channel,Chi-square,139.95,5.20e-27,Cramer's V=0.21,Reject H0
+H2,Buyers got faster first response,Mann-Whitney U,426480.0,8.15e-17,median buyers=2.30 vs non=4.10,Reject H0
+H3,Site visit vs conversion,Chi-square,60.1,9.02e-15,Cramer's V=0.14,Reject H0
+H4,Loan pre-approval vs conversion,Chi-square,28.52,9.25e-08,Cramer's V=0.09,Reject H0
+H5,Higher budget-to-price ratio among buyers,Mann-Whitney U,744625.0,4.83e-23,median buyers=1.52 vs non=1.08,Reject H0
+H6,Festive season vs conversion,Chi-square,14.28,1.57e-04,Cramer's V=0.07,Reject H0
+H7,Local lead (<=5km) vs conversion,Chi-square,10.95,9.37e-04,Cramer's V=0.06,Reject H0
+H8,First-time buyer vs conversion,Chi-square,3.77,0.052,Cramer's V=0.03,Fail to reject
+H9,Unit type (BHK) vs conversion,Chi-square,30.59,1.04e-06,Cramer's V=0.10,Reject H0
+H10,Age difference buyers vs non-buyers,Mann-Whitney U,569951.0,0.909,median buyers=38.00 vs non=38.00,Fail to reject
+H11,Income difference buyers vs non-buyers,Mann-Whitney U,665716.0,7.97e-08,median buyers=1748000.00 vs non=1567000.00,Reject H0
+H12,Days-to-close differs by channel,Kruskal-Wallis,7.47,0.382,,Fail to reject

@@ -1,0 +1,9 @@
+id,hypothesis (H1 = effect exists),test,statistic,p_value,effect_size / note,decision (alpha=0.05)
+W1,Conversion differs by channel,Chi-square,44.05,7.24e-08,Cramer's V=0.20,Reject H0
+W2,Conversion differs by client type,Chi-square,10.09,0.039,Cramer's V=0.10,Reject H0
+W3,Proposal sent vs conversion,Chi-square,39.37,3.51e-10,Cramer's V=0.19,Reject H0
+W4,Decision-maker contact vs conversion,Chi-square,39.16,3.91e-10,Cramer's V=0.19,Reject H0
+W5,Lower rent gap among leased,Mann-Whitney U,66448.0,0.006,median leased=-0.83 vs not=0.00,Reject H0
+W6,Faster response among leased,Mann-Whitney U,63101.0,2.75e-04,median leased=5.30 vs not=7.40,Reject H0
+W7,Lease term >=5y vs conversion,Chi-square,0.55,0.457,Cramer's V=0.02,Fail to reject
+W8,Negotiation rounds difference,Mann-Whitney U,71416.0,0.146,median leased=2.00 vs not=2.00,Fail to reject

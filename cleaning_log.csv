@@ -1,0 +1,39 @@
+table,issue,action_taken,records_affected
+residential,Exact duplicate lead rows (CRM double entry),Dropped duplicates,48
+residential,Duplicate lead_id after exact-dup removal,Kept first occurrence,0
+residential,"Inconsistent channel labels (case, spaces, underscores)",Mapped to 8 canonical channels,431
+residential,Occupation lower-case variants,Standardised casing,141
+residential,3 mixed date formats stored as text,Parsed to datetime64,3200
+residential,Target stored as Yes/Y/No/N/1/0,Converted to binary 0/1,3200
+residential,'NA' text inside numeric site_visits column,Coerced to numeric NaN (imputed below),51
+residential,Negative response time (sign entry error),Took absolute value,15
+residential,"Impossible ages (0, 5, 17, 130, 150, 212)",Set to NaN then imputed,6
+residential,Budget typo outliers (x100) - ratio to price > 8,Divided by 100 (verified plausible after fix),13
+residential,Missing age,Imputed median by occupation,141
+residential,Missing annual_income,Imputed median by occupation,198
+residential,Missing response_time_hrs,Imputed median by channel,97
+residential,Missing distance_from_site_km,Imputed median by overall,62
+residential,Missing site_visits,Imputed median by channel,51
+residential,Missing occupation,Imputed mode,105
+residential,Extreme values in response_time_hrs,Winsorised at 1st/99th percentile,32
+residential,Extreme values in distance_from_site_km,Winsorised at 1st/99th percentile,55
+residential,Extreme values in annual_income,Winsorised at 1st/99th percentile,64
+residential,Raw data lacked analytical features,"Engineered 14 features (date parts, festive flag, budget ratio, bands, buckets, local flag, joins with project + market tables)",3200
+residential,Categorical + unscaled numerics unsuitable for correlation / ML,"One-hot encoded 3 categoricals, z-scored 11 numerics",3200
+warehouse,Exact duplicate lead rows,Dropped duplicates,20
+warehouse,Inconsistent channel labels,Mapped to 7 canonical channels,146
+warehouse,2 mixed date formats stored as text,Parsed to datetime64,1100
+warehouse,Negative response time,Took absolute value,8
+warehouse,"Area outliers (x50 typo, > 300,000 sqft requirement)",Divided by 50,5
+warehouse,Missing area_required_sqft,Imputed median by client_type,29
+warehouse,Missing response_time_hrs,Imputed median by channel,39
+warehouse,Missing quoted_rent_per_sqft,Imputed median by project_id,14
+warehouse,Missing client_type,Imputed mode,37
+warehouse,Extreme values in response_time_hrs,Winsorised 1st/99th pct,11
+warehouse,Extreme values in area_required_sqft,Winsorised 1st/99th pct,22
+warehouse,Raw data lacked analytical features,"Engineered rent-gap %, area-share, buckets, size band, long-lease flag, rent potential",1100
+campaign,Duplicate monthly records,Dropped duplicates,6
+campaign,Inconsistent channel labels,Mapped to canonical,46
+campaign,Missing spend (finance feed gap),Imputed = channel-median cost-per-lead x leads,12
+campaign,Impressions/clicks blank for offline channels,"Left as NaN (not applicable, not an error)",215
+campaign,Raw data lacked KPI columns,"Derived CTR, CPL, lead-to-sale %, cost per conversion",359

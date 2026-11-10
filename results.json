@@ -1,0 +1,988 @@
+{
+ "res_leads": 3200,
+ "res_sales": 410,
+ "res_conv": 12.81,
+ "res_mkt_cost": 20310426.0,
+ "res_revenue": 2679261000.0,
+ "res_cac": 49538.0,
+ "res_avg_days_close": 48.5,
+ "res_avg_ticket": 6534783.0,
+ "res_rev_per_cost": 131.9,
+ "wh_leads": 1100,
+ "wh_leases": 164,
+ "wh_conv": 14.91,
+ "wh_mkt_cost": 12385786.0,
+ "wh_lease_value": 8951370000.0,
+ "wh_cac": 75523.0,
+ "wh_rev_per_cost": 722.7,
+ "wh_avg_lease_value": 54581524.0,
+ "channel_res": [
+  {
+   "channel": "Referral",
+   "leads": 266,
+   "sales": 79,
+   "conv": 29.7,
+   "cost": 709196.0,
+   "revenue": 523137000.0,
+   "cac": 8977.16,
+   "cpl": 2666.15,
+   "rev_per_cost": 737.65,
+   "share_leads_pct": 8.31,
+   "share_sales_pct": 19.27
+  },
+  {
+   "channel": "Walk-in",
+   "leads": 224,
+   "sales": 59,
+   "conv": 26.34,
+   "cost": 226861.0,
+   "revenue": 371171000.0,
+   "cac": 3845.1,
+   "cpl": 1012.77,
+   "rev_per_cost": 1636.12,
+   "share_leads_pct": 7.0,
+   "share_sales_pct": 14.39
+  },
+  {
+   "channel": "Broker Network",
+   "leads": 399,
+   "sales": 57,
+   "conv": 14.29,
+   "cost": 2839631.0,
+   "revenue": 384999000.0,
+   "cac": 49818.09,
+   "cpl": 7116.87,
+   "rev_per_cost": 135.58,
+   "share_leads_pct": 12.47,
+   "share_sales_pct": 13.9
+  },
+  {
+   "channel": "Google Ads",
+   "leads": 598,
+   "sales": 76,
+   "conv": 12.71,
+   "cost": 5532583.0,
+   "revenue": 505013000.0,
+   "cac": 72797.14,
+   "cpl": 9251.81,
+   "rev_per_cost": 91.28,
+   "share_leads_pct": 18.69,
+   "share_sales_pct": 18.54
+  },
+  {
+   "channel": "WhatsApp/Email Campaign",
+   "leads": 272,
+   "sales": 25,
+   "conv": 9.19,
+   "cost": 505297.0,
+   "revenue": 156237000.0,
+   "cac": 20211.88,
+   "cpl": 1857.71,
+   "rev_per_cost": 309.2,
+   "share_leads_pct": 8.5,
+   "share_sales_pct": 6.1
+  },
+  {
+   "channel": "Property Portal",
+   "leads": 571,
+   "sales": 49,
+   "conv": 8.58,
+   "cost": 4753096.0,
+   "revenue": 295440000.0,
+   "cac": 97001.96,
+   "cpl": 8324.16,
+   "rev_per_cost": 62.16,
+   "share_leads_pct": 17.84,
+   "share_sales_pct": 11.95
+  },
+  {
+   "channel": "Hoardings/OOH",
+   "leads": 180,
+   "sales": 14,
+   "conv": 7.78,
+   "cost": 1859313.0,
+   "revenue": 95371000.0,
+   "cac": 132808.07,
+   "cpl": 10329.52,
+   "rev_per_cost": 51.29,
+   "share_leads_pct": 5.62,
+   "share_sales_pct": 3.41
+  },
+  {
+   "channel": "Meta Ads",
+   "leads": 690,
+   "sales": 51,
+   "conv": 7.39,
+   "cost": 3884449.0,
+   "revenue": 347893000.0,
+   "cac": 76165.67,
+   "cpl": 5629.64,
+   "rev_per_cost": 89.56,
+   "share_leads_pct": 21.56,
+   "share_sales_pct": 12.44
+  }
+ ],
+ "festive_conv": 17.18,
+ "nonfestive_conv": 11.63,
+ "festive_lead_share": 21.28,
+ "funnel": {
+  "Leads": 3200,
+  "Visited site (>=1)": 2548,
+  "Repeat visit (>=2)": 1519,
+  "Booked": 410
+ },
+ "corr_target_res": {
+  "response_time_hrs": -0.147,
+  "marketing_cost": -0.097,
+  "distance_from_site_km": -0.085,
+  "price_per_sqft": -0.085,
+  "amenities_score": -0.079,
+  "first_time_buyer": -0.035,
+  "home_loan_rate_pct": -0.033,
+  "age": -0.002,
+  "follow_up_calls": 0.05,
+  "festive_season": 0.068,
+  "annual_income": 0.095,
+  "loan_preapproved": 0.095,
+  "budget_to_price_ratio": 0.175,
+  "site_visits": 0.248
+ },
+ "resp_bucket": {
+  "<2h": 17.73,
+  "2-6h": 13.82,
+  "6-24h": 7.36,
+  ">24h": 2.44
+ },
+ "visits": {
+  "0": 3.68,
+  "1": 7.29,
+  "2": 14.88,
+  "3": 23.53,
+  "4": 28.43,
+  "5": 30.38,
+  "6": 52.0
+ },
+ "afford": {
+  "Under-budget (<0.8)": 5.85,
+  "Stretch (0.8-0.95)": 9.43,
+  "Comfortable (0.95-1.1)": 8.48,
+  "Surplus (>1.1)": 18.3
+ },
+ "loan": {
+  "0": 10.34,
+  "1": 16.93
+ },
+ "projects": [
+  {
+   "project_name": "Palm Court",
+   "zone": "Suburban",
+   "leads": 564,
+   "conv": 16.49,
+   "pps": 4900.0,
+   "cac": 38398.53,
+   "sales": 93
+  },
+  {
+   "project_name": "Sunrise Residency",
+   "zone": "East",
+   "leads": 493,
+   "conv": 16.43,
+   "pps": 5600.0,
+   "cac": 36847.78,
+   "sales": 81
+  },
+  {
+   "project_name": "Green Meadows",
+   "zone": "South",
+   "leads": 336,
+   "conv": 13.39,
+   "pps": 6400.0,
+   "cac": 46633.78,
+   "sales": 45
+  },
+  {
+   "project_name": "Lakeview Enclave",
+   "zone": "West",
+   "leads": 420,
+   "conv": 13.1,
+   "pps": 6800.0,
+   "cac": 48144.29,
+   "sales": 55
+  },
+  {
+   "project_name": "Riverside Heights",
+   "zone": "North",
+   "leads": 432,
+   "conv": 10.42,
+   "pps": 7200.0,
+   "cac": 61645.84,
+   "sales": 45
+  },
+  {
+   "project_name": "Orchid Park",
+   "zone": "North",
+   "leads": 451,
+   "conv": 10.2,
+   "pps": 7600.0,
+   "cac": 64177.46,
+   "sales": 46
+  },
+  {
+   "project_name": "Skyline Towers",
+   "zone": "Central",
+   "leads": 262,
+   "conv": 9.54,
+   "pps": 9800.0,
+   "cac": 67278.28,
+   "sales": 25
+  },
+  {
+   "project_name": "Heritage Square",
+   "zone": "Central",
+   "leads": 242,
+   "conv": 8.26,
+   "pps": 8800.0,
+   "cac": 80002.7,
+   "sales": 20
+  }
+ ],
+ "rate_monthly_rho": -0.337,
+ "rate_monthly_p": 0.1072,
+ "meta_drill": [
+  {
+   "is_meta": "All other channels",
+   "response_hrs": 3.5,
+   "visits": 1.641,
+   "budget_ratio": 1.13,
+   "loan": 0.374,
+   "dist": 5.0,
+   "conv": 0.143
+  },
+  {
+   "is_meta": "Meta Ads",
+   "response_hrs": 4.8,
+   "visits": 1.601,
+   "budget_ratio": 1.106,
+   "loan": 0.378,
+   "dist": 5.0,
+   "conv": 0.074
+  }
+ ],
+ "tests_res": [
+  {
+   "id": "H1",
+   "hypothesis (H1 = effect exists)": "Conversion differs by channel",
+   "test": "Chi-square",
+   "statistic": 139.95,
+   "p_value": "5.20e-27",
+   "effect_size / note": "Cramer's V=0.21",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H2",
+   "hypothesis (H1 = effect exists)": "Buyers got faster first response",
+   "test": "Mann-Whitney U",
+   "statistic": 426480.0,
+   "p_value": "8.15e-17",
+   "effect_size / note": "median buyers=2.30 vs non=4.10",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H3",
+   "hypothesis (H1 = effect exists)": "Site visit vs conversion",
+   "test": "Chi-square",
+   "statistic": 60.1,
+   "p_value": "9.02e-15",
+   "effect_size / note": "Cramer's V=0.14",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H4",
+   "hypothesis (H1 = effect exists)": "Loan pre-approval vs conversion",
+   "test": "Chi-square",
+   "statistic": 28.52,
+   "p_value": "9.25e-08",
+   "effect_size / note": "Cramer's V=0.09",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H5",
+   "hypothesis (H1 = effect exists)": "Higher budget-to-price ratio among buyers",
+   "test": "Mann-Whitney U",
+   "statistic": 744625.0,
+   "p_value": "4.83e-23",
+   "effect_size / note": "median buyers=1.52 vs non=1.08",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H6",
+   "hypothesis (H1 = effect exists)": "Festive season vs conversion",
+   "test": "Chi-square",
+   "statistic": 14.28,
+   "p_value": "1.57e-04",
+   "effect_size / note": "Cramer's V=0.07",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H7",
+   "hypothesis (H1 = effect exists)": "Local lead (<=5km) vs conversion",
+   "test": "Chi-square",
+   "statistic": 10.95,
+   "p_value": "9.37e-04",
+   "effect_size / note": "Cramer's V=0.06",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H8",
+   "hypothesis (H1 = effect exists)": "First-time buyer vs conversion",
+   "test": "Chi-square",
+   "statistic": 3.77,
+   "p_value": "0.052",
+   "effect_size / note": "Cramer's V=0.03",
+   "decision (alpha=0.05)": "Fail to reject"
+  },
+  {
+   "id": "H9",
+   "hypothesis (H1 = effect exists)": "Unit type (BHK) vs conversion",
+   "test": "Chi-square",
+   "statistic": 30.59,
+   "p_value": "1.04e-06",
+   "effect_size / note": "Cramer's V=0.10",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H10",
+   "hypothesis (H1 = effect exists)": "Age difference buyers vs non-buyers",
+   "test": "Mann-Whitney U",
+   "statistic": 569951.0,
+   "p_value": "0.909",
+   "effect_size / note": "median buyers=38.00 vs non=38.00",
+   "decision (alpha=0.05)": "Fail to reject"
+  },
+  {
+   "id": "H11",
+   "hypothesis (H1 = effect exists)": "Income difference buyers vs non-buyers",
+   "test": "Mann-Whitney U",
+   "statistic": 665716.0,
+   "p_value": "7.97e-08",
+   "effect_size / note": "median buyers=1748000.00 vs non=1567000.00",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "H12",
+   "hypothesis (H1 = effect exists)": "Days-to-close differs by channel",
+   "test": "Kruskal-Wallis",
+   "statistic": 7.47,
+   "p_value": "0.382",
+   "effect_size / note": "",
+   "decision (alpha=0.05)": "Fail to reject"
+  }
+ ],
+ "model": {
+  "auc": 0.771,
+  "accuracy": 0.73,
+  "precision": 0.272,
+  "recall": 0.667,
+  "confusion": [
+   [
+    516,
+    182
+   ],
+   [
+    34,
+    68
+   ]
+  ],
+  "n_train": 2400,
+  "n_test": 800
+ },
+ "drivers": [
+  {
+   "factor": "distance_from_site_km",
+   "std_coef": -0.379,
+   "odds_ratio_per_1SD": 0.685
+  },
+  {
+   "factor": "Meta Ads",
+   "std_coef": -0.366,
+   "odds_ratio_per_1SD": 0.693
+  },
+  {
+   "factor": "log_response",
+   "std_coef": -0.241,
+   "odds_ratio_per_1SD": 0.786
+  },
+  {
+   "factor": "WhatsApp/Email Campaign",
+   "std_coef": -0.198,
+   "odds_ratio_per_1SD": 0.82
+  },
+  {
+   "factor": "Property Portal",
+   "std_coef": -0.19,
+   "odds_ratio_per_1SD": 0.827
+  },
+  {
+   "factor": "Hoardings/OOH",
+   "std_coef": -0.139,
+   "odds_ratio_per_1SD": 0.87
+  },
+  {
+   "factor": "amenities_score",
+   "std_coef": -0.1,
+   "odds_ratio_per_1SD": 0.905
+  },
+  {
+   "factor": "first_time_buyer",
+   "std_coef": -0.052,
+   "odds_ratio_per_1SD": 0.949
+  },
+  {
+   "factor": "home_loan_rate_pct",
+   "std_coef": -0.039,
+   "odds_ratio_per_1SD": 0.962
+  },
+  {
+   "factor": "age",
+   "std_coef": 0.033,
+   "odds_ratio_per_1SD": 1.034
+  },
+  {
+   "factor": "Broker Network",
+   "std_coef": 0.045,
+   "odds_ratio_per_1SD": 1.046
+  },
+  {
+   "factor": "Walk-in",
+   "std_coef": 0.128,
+   "odds_ratio_per_1SD": 1.136
+  },
+  {
+   "factor": "festive_season",
+   "std_coef": 0.182,
+   "odds_ratio_per_1SD": 1.2
+  },
+  {
+   "factor": "Referral",
+   "std_coef": 0.193,
+   "odds_ratio_per_1SD": 1.213
+  },
+  {
+   "factor": "annual_income",
+   "std_coef": 0.193,
+   "odds_ratio_per_1SD": 1.213
+  },
+  {
+   "factor": "follow_up_calls",
+   "std_coef": 0.213,
+   "odds_ratio_per_1SD": 1.238
+  },
+  {
+   "factor": "budget_to_price_ratio",
+   "std_coef": 0.251,
+   "odds_ratio_per_1SD": 1.285
+  },
+  {
+   "factor": "loan_preapproved",
+   "std_coef": 0.273,
+   "odds_ratio_per_1SD": 1.313
+  },
+  {
+   "factor": "site_visits",
+   "std_coef": 0.636,
+   "odds_ratio_per_1SD": 1.889
+  }
+ ],
+ "channel_wh": [
+  {
+   "channel": "Referral",
+   "leads": 98,
+   "leases": 30,
+   "conv": 30.61,
+   "cost": 411217.0,
+   "value": 1342580000.0,
+   "resp": 2.8,
+   "cac": 13707.23,
+   "value_per_cost": 3264.89
+  },
+  {
+   "channel": "Broker",
+   "leads": 264,
+   "leases": 58,
+   "conv": 21.97,
+   "cost": 3832537.0,
+   "value": 3178936000.0,
+   "resp": 5.3,
+   "cac": 66078.22,
+   "value_per_cost": 829.46
+  },
+  {
+   "channel": "Industry Expo",
+   "leads": 117,
+   "leases": 16,
+   "conv": 13.68,
+   "cost": 2605041.0,
+   "value": 920875000.0,
+   "resp": 8.85,
+   "cac": 162815.06,
+   "value_per_cost": 353.5
+  },
+  {
+   "channel": "3PL Directory",
+   "leads": 117,
+   "leases": 14,
+   "conv": 11.97,
+   "cost": 1468413.0,
+   "value": 931774000.0,
+   "resp": 6.65,
+   "cac": 104886.64,
+   "value_per_cost": 634.54
+  },
+  {
+   "channel": "LinkedIn Outreach",
+   "leads": 230,
+   "leases": 23,
+   "conv": 10.0,
+   "cost": 2647223.0,
+   "value": 1358675000.0,
+   "resp": 6.65,
+   "cac": 115096.65,
+   "value_per_cost": 513.25
+  },
+  {
+   "channel": "Cold Calling",
+   "leads": 106,
+   "leases": 10,
+   "conv": 9.43,
+   "cost": 390592.0,
+   "value": 532646000.0,
+   "resp": 14.2,
+   "cac": 39059.2,
+   "value_per_cost": 1363.69
+  },
+  {
+   "channel": "Website/SEO",
+   "leads": 168,
+   "leases": 13,
+   "conv": 7.74,
+   "cost": 1030763.0,
+   "value": 685884000.0,
+   "resp": 12.9,
+   "cac": 79289.46,
+   "value_per_cost": 665.41
+  }
+ ],
+ "client_type": [
+  {
+   "client_type": "3PL",
+   "leads": 436,
+   "conv": 19.0,
+   "avg_value": 55867409.6,
+   "avg_area": 44886.9
+  },
+  {
+   "client_type": "Manufacturer",
+   "leads": 189,
+   "conv": 13.2,
+   "avg_value": 41390680.0,
+   "avg_area": 42486.2
+  },
+  {
+   "client_type": "E-commerce",
+   "leads": 250,
+   "conv": 12.4,
+   "avg_value": 55481387.1,
+   "avg_area": 45992.0
+  },
+  {
+   "client_type": "Retail Distributor",
+   "leads": 141,
+   "conv": 11.3,
+   "avg_value": 49036875.0,
+   "avg_area": 43508.8
+  },
+  {
+   "client_type": "FMCG",
+   "leads": 84,
+   "conv": 10.7,
+   "avg_value": 86121666.7,
+   "avg_area": 43871.3
+  }
+ ],
+ "w_gap": {
+  "Below mkt >5%": 19.19,
+  "0 to -5%": 13.29,
+  "0 to +5%": 16.02,
+  "Above mkt >5%": 11.4
+ },
+ "w_prop": {
+  "0": 7.51,
+  "1": 21.21
+ },
+ "w_dm": {
+  "0": 8.38,
+  "1": 22.01
+ },
+ "w_resp": {
+  "<4h": 19.02,
+  "4-12h": 15.55,
+  "12-48h": 10.3,
+  ">48h": 6.9
+ },
+ "corr_target_wh": {
+  "response_time_hrs": -0.11,
+  "rent_gap_pct": -0.083,
+  "area_share_of_park_pct": -0.074,
+  "dist_to_highway_km": -0.049,
+  "area_required_sqft": -0.045,
+  "negotiation_rounds": -0.044,
+  "quoted_rent_per_sqft": -0.001,
+  "lease_term_years": 0.021,
+  "marketing_cost": 0.025,
+  "decision_maker_contacted": 0.191,
+  "proposal_sent": 0.192,
+  "site_visits": 0.212
+ },
+ "tests_wh": [
+  {
+   "id": "W1",
+   "hypothesis (H1 = effect exists)": "Conversion differs by channel",
+   "test": "Chi-square",
+   "statistic": 44.05,
+   "p_value": "7.24e-08",
+   "effect_size / note": "Cramer's V=0.20",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "W2",
+   "hypothesis (H1 = effect exists)": "Conversion differs by client type",
+   "test": "Chi-square",
+   "statistic": 10.09,
+   "p_value": "0.039",
+   "effect_size / note": "Cramer's V=0.10",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "W3",
+   "hypothesis (H1 = effect exists)": "Proposal sent vs conversion",
+   "test": "Chi-square",
+   "statistic": 39.37,
+   "p_value": "3.51e-10",
+   "effect_size / note": "Cramer's V=0.19",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "W4",
+   "hypothesis (H1 = effect exists)": "Decision-maker contact vs conversion",
+   "test": "Chi-square",
+   "statistic": 39.16,
+   "p_value": "3.91e-10",
+   "effect_size / note": "Cramer's V=0.19",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "W5",
+   "hypothesis (H1 = effect exists)": "Lower rent gap among leased",
+   "test": "Mann-Whitney U",
+   "statistic": 66448.0,
+   "p_value": "0.006",
+   "effect_size / note": "median leased=-0.83 vs not=0.00",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "W6",
+   "hypothesis (H1 = effect exists)": "Faster response among leased",
+   "test": "Mann-Whitney U",
+   "statistic": 63101.0,
+   "p_value": "2.75e-04",
+   "effect_size / note": "median leased=5.30 vs not=7.40",
+   "decision (alpha=0.05)": "Reject H0"
+  },
+  {
+   "id": "W7",
+   "hypothesis (H1 = effect exists)": "Lease term >=5y vs conversion",
+   "test": "Chi-square",
+   "statistic": 0.55,
+   "p_value": "0.457",
+   "effect_size / note": "Cramer's V=0.02",
+   "decision (alpha=0.05)": "Fail to reject"
+  },
+  {
+   "id": "W8",
+   "hypothesis (H1 = effect exists)": "Negotiation rounds difference",
+   "test": "Mann-Whitney U",
+   "statistic": 71416.0,
+   "p_value": "0.146",
+   "effect_size / note": "median leased=2.00 vs not=2.00",
+   "decision (alpha=0.05)": "Fail to reject"
+  }
+ ],
+ "campaign": [
+  {
+   "segment": "Residential",
+   "channel": "Broker Network",
+   "spend": 3103022.0,
+   "leads": 399,
+   "conv": 57,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 7777.0,
+   "cost_per_conv": 54438.98,
+   "lead_to_sale_pct": 14.29,
+   "spend_share_pct": 14.12,
+   "conv_share_pct": 13.9,
+   "efficiency_index": 0.98
+  },
+  {
+   "segment": "Residential",
+   "channel": "Google Ads",
+   "spend": 5962436.76,
+   "leads": 598,
+   "conv": 76,
+   "clicks": 12176.0,
+   "imp": 350151.0,
+   "cpl": 9970.63,
+   "cost_per_conv": 78453.12,
+   "lead_to_sale_pct": 12.71,
+   "spend_share_pct": 27.14,
+   "conv_share_pct": 18.54,
+   "efficiency_index": 0.68
+  },
+  {
+   "segment": "Residential",
+   "channel": "Hoardings/OOH",
+   "spend": 2025626.29,
+   "leads": 180,
+   "conv": 14,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 11253.48,
+   "cost_per_conv": 144687.59,
+   "lead_to_sale_pct": 7.78,
+   "spend_share_pct": 9.22,
+   "conv_share_pct": 3.41,
+   "efficiency_index": 0.37
+  },
+  {
+   "segment": "Residential",
+   "channel": "Meta Ads",
+   "spend": 4196126.42,
+   "leads": 690,
+   "conv": 51,
+   "clicks": 14709.0,
+   "imp": 1218265.0,
+   "cpl": 6081.34,
+   "cost_per_conv": 82276.99,
+   "lead_to_sale_pct": 7.39,
+   "spend_share_pct": 19.1,
+   "conv_share_pct": 12.44,
+   "efficiency_index": 0.65
+  },
+  {
+   "segment": "Residential",
+   "channel": "Property Portal",
+   "spend": 5130138.0,
+   "leads": 571,
+   "conv": 49,
+   "clicks": 10903.0,
+   "imp": 555367.0,
+   "cpl": 8984.48,
+   "cost_per_conv": 104696.69,
+   "lead_to_sale_pct": 8.58,
+   "spend_share_pct": 23.35,
+   "conv_share_pct": 11.95,
+   "efficiency_index": 0.51
+  },
+  {
+   "segment": "Residential",
+   "channel": "Referral",
+   "spend": 765378.0,
+   "leads": 266,
+   "conv": 79,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 2877.36,
+   "cost_per_conv": 9688.33,
+   "lead_to_sale_pct": 29.7,
+   "spend_share_pct": 3.48,
+   "conv_share_pct": 19.27,
+   "efficiency_index": 5.53
+  },
+  {
+   "segment": "Residential",
+   "channel": "Walk-in",
+   "spend": 244434.0,
+   "leads": 224,
+   "conv": 59,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 1091.22,
+   "cost_per_conv": 4142.95,
+   "lead_to_sale_pct": 26.34,
+   "spend_share_pct": 1.11,
+   "conv_share_pct": 14.39,
+   "efficiency_index": 12.93
+  },
+  {
+   "segment": "Residential",
+   "channel": "WhatsApp/Email Campaign",
+   "spend": 542650.67,
+   "leads": 272,
+   "conv": 25,
+   "clicks": 5378.0,
+   "imp": 88948.0,
+   "cpl": 1995.04,
+   "cost_per_conv": 21706.03,
+   "lead_to_sale_pct": 9.19,
+   "spend_share_pct": 2.47,
+   "conv_share_pct": 6.1,
+   "efficiency_index": 2.47
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "3PL Directory",
+   "spend": 1588847.0,
+   "leads": 117,
+   "conv": 14,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 13579.89,
+   "cost_per_conv": 113489.07,
+   "lead_to_sale_pct": 11.97,
+   "spend_share_pct": 11.83,
+   "conv_share_pct": 8.54,
+   "efficiency_index": 0.72
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "Broker",
+   "spend": 4163156.0,
+   "leads": 264,
+   "conv": 58,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 15769.53,
+   "cost_per_conv": 71778.55,
+   "lead_to_sale_pct": 21.97,
+   "spend_share_pct": 31.01,
+   "conv_share_pct": 35.37,
+   "efficiency_index": 1.14
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "Cold Calling",
+   "spend": 423425.0,
+   "leads": 106,
+   "conv": 10,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 3994.58,
+   "cost_per_conv": 42342.5,
+   "lead_to_sale_pct": 9.43,
+   "spend_share_pct": 3.15,
+   "conv_share_pct": 6.1,
+   "efficiency_index": 1.93
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "Industry Expo",
+   "spend": 2834552.62,
+   "leads": 117,
+   "conv": 16,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 24226.95,
+   "cost_per_conv": 177159.54,
+   "lead_to_sale_pct": 13.68,
+   "spend_share_pct": 21.11,
+   "conv_share_pct": 9.76,
+   "efficiency_index": 0.46
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "LinkedIn Outreach",
+   "spend": 2853464.0,
+   "leads": 230,
+   "conv": 23,
+   "clicks": 4126.0,
+   "imp": 524589.0,
+   "cpl": 12406.37,
+   "cost_per_conv": 124063.65,
+   "lead_to_sale_pct": 10.0,
+   "spend_share_pct": 21.25,
+   "conv_share_pct": 14.02,
+   "efficiency_index": 0.66
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "Referral",
+   "spend": 452307.4,
+   "leads": 98,
+   "conv": 30,
+   "clicks": 0.0,
+   "imp": 0.0,
+   "cpl": 4615.38,
+   "cost_per_conv": 15076.91,
+   "lead_to_sale_pct": 30.61,
+   "spend_share_pct": 3.37,
+   "conv_share_pct": 18.29,
+   "efficiency_index": 5.43
+  },
+  {
+   "segment": "Warehouse",
+   "channel": "Website/SEO",
+   "spend": 1109509.5,
+   "leads": 168,
+   "conv": 13,
+   "clicks": 3208.0,
+   "imp": 107037.0,
+   "cpl": 6604.22,
+   "cost_per_conv": 85346.88,
+   "lead_to_sale_pct": 7.74,
+   "spend_share_pct": 8.26,
+   "conv_share_pct": 7.93,
+   "efficiency_index": 0.96
+  }
+ ],
+ "profile": {
+  "unit_type": {
+   "1BHK": 19.14,
+   "2BHK": 12.72,
+   "3BHK": 9.54,
+   "4BHK": 11.38
+  },
+  "age_group": {
+   "30-39": 12.03,
+   "40-49": 12.85,
+   "50+": 15.25,
+   "<30": 14.13
+  },
+  "occupation": {
+   "Business Owner": 13.75,
+   "Government": 11.02,
+   "Professional": 11.56,
+   "Salaried - IT": 13.24,
+   "Salaried - Other": 13.15
+  },
+  "income_band": {
+   "Q1 Low": 8.5,
+   "Q2 Lower-mid": 12.62,
+   "Q3 Upper-mid": 13.27,
+   "Q4 High": 16.9
+  }
+ },
+ "days_to_close_by_channel": {
+  "Property Portal": 38.0,
+  "Hoardings/OOH": 41.5,
+  "Referral": 43.0,
+  "Walk-in": 43.0,
+  "Broker Network": 45.0,
+  "Meta Ads": 45.0,
+  "WhatsApp/Email Campaign": 46.0,
+  "Google Ads": 47.5
+ },
+ "days_visit0_vs_visit>0": {
+  "no_visit": 66.0,
+  "visited": 42.5
+ }
+}
