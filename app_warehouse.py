@@ -2,8 +2,17 @@
 import numpy as np, pandas as pd, streamlit as st, matplotlib.pyplot as plt, seaborn as sns
 from scipy import stats
 from pathlib import Path
-DATA = Path(__file__).parent / "data" / "clean"
-TABLES = Path(__file__).parent / "tables"
+ROOT = Path(__file__).resolve().parent
+
+def find(name):
+    """Find a data file anywhere inside the repo, so folder layout does not matter."""
+    hits = sorted(ROOT.rglob(name))
+    if not hits:
+        found = sorted(str(p.relative_to(ROOT)) for p in ROOT.rglob("*.csv"))[:25]
+        st.error(f"Data file '{name}' was not found in the repository. CSV files found: {found or 'none'}. "
+                 "Upload the 'data' folder (with data/clean inside) to GitHub and reboot the app.")
+        st.stop()
+    return hits[0]
 sns.set_theme(style="whitegrid"); NAVY, ORANGE, RED, GREEN, GREY = "#1F3A5F", "#E07B39", "#C0392B", "#2E8B57", "#9AA5B1"
 
 def bar(ax, s, color=NAVY, fmt="{:.1f}%", ref=None):
@@ -15,8 +24,8 @@ st.set_page_config(page_title="FMB Warehouse Leasing", layout="wide")
 
 @st.cache_data
 def load():
-    w = pd.read_csv(DATA / "warehouse_leads_clean.csv", parse_dates=["lead_date"])
-    c = pd.read_csv(DATA / "campaign_performance_clean.csv", parse_dates=["month_dt"])
+    w = pd.read_csv(find("warehouse_leads_clean.csv"), parse_dates=["lead_date"])
+    c = pd.read_csv(find("campaign_performance_clean.csv"), parse_dates=["month_dt"])
     return w, c
 w_all, c_all = load()
 
